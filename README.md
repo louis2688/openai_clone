@@ -1,3 +1,3 @@
-# Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
+### This is a clone for ChatGpt AI
 ![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
 
